@@ -1,0 +1,6141 @@
+{
+  "map": {
+    "01f4d4141e0b4ddd2ab60ef6e181df8d464119411a33932d5f8440b59a5e8db5": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 121
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 121
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 121
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 121
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 121
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 121
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 121
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 121
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 121
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 121
+      }
+    },
+    "042e638ae447ec97d8d0695f89e27a87695bdfc4d93dd9b66cd1c7c25a04b125": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 55
+      }
+    },
+    "052d09fe54f66176117f71eff0e9dabd2085c4569bfa519df8e10514f3aac510": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2301
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 2302
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 2303
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 2304
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 2307
+      },
+      "88": {
+        "filename": "Collection.code",
+        "line": 2308
+      },
+      "136": {
+        "filename": "Collection.code",
+        "line": 2309
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 2310
+      }
+    },
+    "0b590c4c22ed418f1bc8e2f9a872b11f03ed4af7ab9a1636267ba3f8ff24e3bf": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2210
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 2211
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 2212
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 2213
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 2239
+      },
+      "88": {
+        "filename": "Collection.code",
+        "line": 2240
+      },
+      "136": {
+        "filename": "Collection.code",
+        "line": 2241
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 2242
+      },
+      "160": {
+        "filename": "Collection.code",
+        "line": 2268
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 2269
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 2270
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 2271
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 2297
+      },
+      "248": {
+        "filename": "Collection.code",
+        "line": 2298
+      },
+      "296": {
+        "filename": "Collection.code",
+        "line": 2299
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 2300
+      }
+    },
+    "0bd67e64274e4f697528523986539595143772c3e9cf62f5d8e303c3bd2a1183": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2009
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 2010
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 2011
+      },
+      "32": {
+        "filename": "Collection.code",
+        "line": 2012
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 2013
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 2014
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 2016
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 2017
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 2019
+      },
+      "96": {
+        "filename": "Collection.code",
+        "line": 2020
+      },
+      "104": {
+        "filename": "Collection.code",
+        "line": 2021
+      },
+      "120": {
+        "filename": "Collection.code",
+        "line": 2022
+      },
+      "128": {
+        "filename": "Collection.code",
+        "line": 2023
+      },
+      "136": {
+        "filename": "Collection.code",
+        "line": 2024
+      },
+      "152": {
+        "filename": "Collection.code",
+        "line": 2025
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 2026
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 2027
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 2028
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 2030
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 2031
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 2032
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 2033
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 2034
+      },
+      "288": {
+        "filename": "Collection.code",
+        "line": 2035
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 2036
+      },
+      "320": {
+        "filename": "Collection.code",
+        "line": 2037
+      },
+      "336": {
+        "filename": "Collection.code",
+        "line": 2038
+      },
+      "352": {
+        "filename": "Collection.code",
+        "line": 2039
+      },
+      "368": {
+        "filename": "Collection.code",
+        "line": 2040
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 2041
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 2042
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 2043
+      },
+      "432": {
+        "filename": "Collection.code",
+        "line": 2044
+      },
+      "456": {
+        "filename": "Collection.code",
+        "line": 2045
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 2046
+      },
+      "480": {
+        "filename": "Collection.code",
+        "line": 2047
+      },
+      "496": {
+        "filename": "Collection.code",
+        "line": 2048
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 2049
+      },
+      "560": {
+        "filename": "Collection.code",
+        "line": 2050
+      },
+      "608": {
+        "filename": "Collection.code",
+        "line": 2051
+      },
+      "624": {
+        "filename": "Collection.code",
+        "line": 2052
+      },
+      "672": {
+        "filename": "Collection.code",
+        "line": 2053
+      }
+    },
+    "10c4a308d442c44451493c0b1485b861871dd0fb85273a8f5a398ea89622f4df": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 1334
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 1335
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 1336
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 1337
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 1338
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 1339
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 42
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 42
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 42
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 42
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 42
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 42
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 1350
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 1353
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 1354
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 1355
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 1356
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 1357
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 1358
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 1359
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 1360
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 1361
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 1362
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 1363
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 1364
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 1365
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 1366
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 1367
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 1368
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 1370
+      },
+      "432": {
+        "filename": "Collection.code",
+        "line": 1371
+      },
+      "448": {
+        "filename": "Collection.code",
+        "line": 1372
+      },
+      "456": {
+        "filename": "Collection.code",
+        "line": 1373
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 1374
+      },
+      "480": {
+        "filename": "Collection.code",
+        "line": 1375
+      },
+      "496": {
+        "filename": "Collection.code",
+        "line": 1376
+      },
+      "512": {
+        "filename": "Collection.code",
+        "line": 1377
+      },
+      "528": {
+        "filename": "Collection.code",
+        "line": 1378
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 1379
+      },
+      "552": {
+        "filename": "Collection.code",
+        "line": 1380
+      },
+      "576": {
+        "filename": "Collection.code",
+        "line": 1381
+      },
+      "592": {
+        "filename": "Collection.code",
+        "line": 1382
+      },
+      "616": {
+        "filename": "Collection.code",
+        "line": 1383
+      },
+      "624": {
+        "filename": "Collection.code",
+        "line": 1384
+      },
+      "632": {
+        "filename": "Collection.code",
+        "line": 1385
+      },
+      "648": {
+        "filename": "Collection.code",
+        "line": 1386
+      },
+      "664": {
+        "filename": "Collection.code",
+        "line": 1387
+      },
+      "680": {
+        "filename": "Collection.code",
+        "line": 1388
+      },
+      "696": {
+        "filename": "Collection.code",
+        "line": 1389
+      },
+      "712": {
+        "filename": "Collection.code",
+        "line": 1390
+      },
+      "728": {
+        "filename": "Collection.code",
+        "line": 1391
+      },
+      "752": {
+        "filename": "Collection.code",
+        "line": 1392
+      },
+      "768": {
+        "filename": "Collection.code",
+        "line": 1393
+      },
+      "776": {
+        "filename": "Collection.code",
+        "line": 1394
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 1395
+      },
+      "808": {
+        "filename": "Collection.code",
+        "line": 1397
+      },
+      "816": {
+        "filename": "Collection.code",
+        "line": 1398
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 1399
+      },
+      "848": {
+        "filename": "Collection.code",
+        "line": 1402
+      }
+    },
+    "12c0de704018f98bffbba719f3a8d9b380cacbbd1f64928beaf1303c64d31e6b": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "14244789b95b8c5d057b57dc23d431dd1607d3cd2da21241dc9bed112f12da6a": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "8": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "48": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "136": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "176": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "184": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "224": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "240": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      },
+      "256": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 107
+      }
+    },
+    "156d7def8b7afe3311fa8db53b70f0c2b0a660e7922b0959208593a2d80d54dd": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 43
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 43
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 43
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 43
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 43
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 43
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 43
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 43
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 43
+      }
+    },
+    "167cbcddb50e29cce7c28a14df73bae947a561cc10d9c38c298a1e02278eb4e6": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "8": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "136": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "152": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "184": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "192": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      }
+    },
+    "1ac49498d12f47bf89b85a41f266fbe28847dda9ed6319f0727d7bf5aead6a81": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 95
+      },
+      "8": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 95
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 95
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 96
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 96
+      },
+      "48": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 96
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 96
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 96
+      }
+    },
+    "1c188d15fd7c21cf0e833bcf90b8ce6c110729013c52a7bb825bb98d38fdeb95": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 63
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 63
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 63
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 63
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 63
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 63
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 64
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 64
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 64
+      },
+      "136": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 64
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 64
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 66
+      },
+      "184": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 67
+      },
+      "200": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 67
+      },
+      "216": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "224": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "240": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "248": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "280": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "296": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "304": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "320": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "328": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "336": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "360": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "376": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "384": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "400": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "408": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "432": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "440": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "456": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "464": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "512": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "520": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      },
+      "528": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 68
+      }
+    },
+    "2c66d84e87af9ffa8789d2e0e045f6c3ceaa3f46b2a434d54bb796c43c22c997": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 65
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 65
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 65
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 65
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 65
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 65
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 65
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 65
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 65
+      }
+    },
+    "2d8462818428e77c1040b4d7dfce25f694f75cd7aca99c5389fc0ef55735ed83": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 95
+      }
+    },
+    "308dd73b9c93958c8e57864447b97fa938bb26841cf34eeb8cb3a4e2f1dba0c1": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 1878
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 1879
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 1880
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 1881
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 1882
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 1883
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 13
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 13
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 13
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 13
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 13
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 13
+      },
+      "176": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 13
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 1895
+      },
+      "200": {
+        "filename": "Collection.code",
+        "line": 1898
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 1899
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 1900
+      },
+      "232": {
+        "filename": "Collection.code",
+        "line": 1901
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 1902
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 1903
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 1904
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 1905
+      },
+      "288": {
+        "filename": "Collection.code",
+        "line": 1906
+      },
+      "296": {
+        "filename": "Collection.code",
+        "line": 1907
+      },
+      "320": {
+        "filename": "Collection.code",
+        "line": 1908
+      },
+      "328": {
+        "filename": "Collection.code",
+        "line": 1909
+      },
+      "376": {
+        "filename": "Collection.code",
+        "line": 1910
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 1911
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 1912
+      },
+      "424": {
+        "filename": "Collection.code",
+        "line": 1913
+      },
+      "432": {
+        "filename": "Collection.code",
+        "line": 1915
+      },
+      "448": {
+        "filename": "Collection.code",
+        "line": 1916
+      },
+      "464": {
+        "filename": "Collection.code",
+        "line": 1917
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 1918
+      },
+      "488": {
+        "filename": "Collection.code",
+        "line": 1919
+      },
+      "496": {
+        "filename": "Collection.code",
+        "line": 1920
+      },
+      "512": {
+        "filename": "Collection.code",
+        "line": 1921
+      },
+      "528": {
+        "filename": "Collection.code",
+        "line": 1922
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 1923
+      },
+      "560": {
+        "filename": "Collection.code",
+        "line": 1924
+      },
+      "568": {
+        "filename": "Collection.code",
+        "line": 1925
+      },
+      "592": {
+        "filename": "Collection.code",
+        "line": 1926
+      },
+      "608": {
+        "filename": "Collection.code",
+        "line": 1927
+      },
+      "632": {
+        "filename": "Collection.code",
+        "line": 1928
+      },
+      "640": {
+        "filename": "Collection.code",
+        "line": 1929
+      },
+      "648": {
+        "filename": "Collection.code",
+        "line": 1930
+      },
+      "664": {
+        "filename": "Collection.code",
+        "line": 1931
+      },
+      "680": {
+        "filename": "Collection.code",
+        "line": 1932
+      },
+      "696": {
+        "filename": "Collection.code",
+        "line": 1933
+      },
+      "712": {
+        "filename": "Collection.code",
+        "line": 1934
+      },
+      "728": {
+        "filename": "Collection.code",
+        "line": 1935
+      },
+      "744": {
+        "filename": "Collection.code",
+        "line": 1936
+      },
+      "768": {
+        "filename": "Collection.code",
+        "line": 1937
+      },
+      "784": {
+        "filename": "Collection.code",
+        "line": 1938
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 1939
+      },
+      "808": {
+        "filename": "Collection.code",
+        "line": 1940
+      },
+      "824": {
+        "filename": "Collection.code",
+        "line": 1942
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 1943
+      },
+      "848": {
+        "filename": "Collection.code",
+        "line": 1944
+      },
+      "864": {
+        "filename": "Collection.code",
+        "line": 1947
+      }
+    },
+    "330f93bf08f57d3c5e8d77220d00a2fd83e454a0384dd9d8d036e876b24bb445": {
+      "0": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "8": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "16": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "32": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "40": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "48": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "64": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "80": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "88": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "96": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "112": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "120": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "128": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "144": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "160": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "168": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "184": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "192": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "200": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "208": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "232": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "248": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "264": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      },
+      "280": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 46
+      }
+    },
+    "4ace6ebac3eb005ceb1476fdf7ef641e8ed45fc53afb1a0270a32682b3fba55c": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 504
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 505
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 506
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 507
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 508
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 509
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 77
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 77
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 77
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 77
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 77
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 77
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 520
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 523
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 524
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 525
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 526
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 527
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 528
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 529
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 530
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 531
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 532
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 533
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 534
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 535
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 536
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 537
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 538
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 540
+      },
+      "432": {
+        "filename": "Collection.code",
+        "line": 541
+      },
+      "448": {
+        "filename": "Collection.code",
+        "line": 542
+      },
+      "456": {
+        "filename": "Collection.code",
+        "line": 543
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 544
+      },
+      "480": {
+        "filename": "Collection.code",
+        "line": 545
+      },
+      "496": {
+        "filename": "Collection.code",
+        "line": 546
+      },
+      "512": {
+        "filename": "Collection.code",
+        "line": 547
+      },
+      "528": {
+        "filename": "Collection.code",
+        "line": 548
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 549
+      },
+      "552": {
+        "filename": "Collection.code",
+        "line": 550
+      },
+      "576": {
+        "filename": "Collection.code",
+        "line": 551
+      },
+      "592": {
+        "filename": "Collection.code",
+        "line": 552
+      },
+      "616": {
+        "filename": "Collection.code",
+        "line": 553
+      },
+      "624": {
+        "filename": "Collection.code",
+        "line": 554
+      },
+      "632": {
+        "filename": "Collection.code",
+        "line": 555
+      },
+      "648": {
+        "filename": "Collection.code",
+        "line": 556
+      },
+      "664": {
+        "filename": "Collection.code",
+        "line": 557
+      },
+      "672": {
+        "filename": "Collection.code",
+        "line": 558
+      },
+      "696": {
+        "filename": "Collection.code",
+        "line": 559
+      },
+      "704": {
+        "filename": "Collection.code",
+        "line": 560
+      },
+      "712": {
+        "filename": "Collection.code",
+        "line": 561
+      },
+      "728": {
+        "filename": "Collection.code",
+        "line": 562
+      },
+      "744": {
+        "filename": "Collection.code",
+        "line": 563
+      },
+      "768": {
+        "filename": "Collection.code",
+        "line": 564
+      },
+      "784": {
+        "filename": "Collection.code",
+        "line": 565
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 566
+      },
+      "800": {
+        "filename": "Collection.code",
+        "line": 567
+      },
+      "816": {
+        "filename": "Collection.code",
+        "line": 568
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 570
+      },
+      "840": {
+        "filename": "Collection.code",
+        "line": 571
+      },
+      "856": {
+        "filename": "Collection.code",
+        "line": 572
+      },
+      "872": {
+        "filename": "Collection.code",
+        "line": 575
+      }
+    },
+    "59408759535868653296d809fecb7d7753d22864ed42d014f9628ed711e4c16a": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "176": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "184": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP6/TIP6.tsol",
+        "line": 22
+      }
+    },
+    "5b2fc5604d524c747aa3c5bda550cdfd0d58b2ec62635dbc9a0450af7168caff": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 116
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 116
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 116
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 116
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 116
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 116
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 116
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 116
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 116
+      }
+    },
+    "5c7eb438d9c9229cdf2067c9d0bcec07ddb016dd55cffaf9c97ed6689ca4396b": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 1418
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 1419
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 1420
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 1421
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 1422
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 1423
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 48
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 48
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 48
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 48
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 48
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 48
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 1434
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 1437
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 1438
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 1439
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 1440
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 1441
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 1442
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 1443
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 1444
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 1445
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 1446
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 1447
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 1448
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 1449
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 1450
+      },
+      "392": {
+        "filename": "Collection.code",
+        "line": 1451
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 1452
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 1454
+      },
+      "424": {
+        "filename": "Collection.code",
+        "line": 1455
+      },
+      "440": {
+        "filename": "Collection.code",
+        "line": 1456
+      },
+      "448": {
+        "filename": "Collection.code",
+        "line": 1457
+      },
+      "464": {
+        "filename": "Collection.code",
+        "line": 1458
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 1459
+      },
+      "488": {
+        "filename": "Collection.code",
+        "line": 1460
+      },
+      "504": {
+        "filename": "Collection.code",
+        "line": 1461
+      },
+      "520": {
+        "filename": "Collection.code",
+        "line": 1462
+      },
+      "536": {
+        "filename": "Collection.code",
+        "line": 1463
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 1464
+      },
+      "568": {
+        "filename": "Collection.code",
+        "line": 1465
+      },
+      "584": {
+        "filename": "Collection.code",
+        "line": 1466
+      },
+      "608": {
+        "filename": "Collection.code",
+        "line": 1467
+      },
+      "616": {
+        "filename": "Collection.code",
+        "line": 1468
+      },
+      "624": {
+        "filename": "Collection.code",
+        "line": 1469
+      },
+      "640": {
+        "filename": "Collection.code",
+        "line": 1470
+      },
+      "656": {
+        "filename": "Collection.code",
+        "line": 1471
+      },
+      "672": {
+        "filename": "Collection.code",
+        "line": 1472
+      },
+      "688": {
+        "filename": "Collection.code",
+        "line": 1473
+      },
+      "704": {
+        "filename": "Collection.code",
+        "line": 1474
+      },
+      "720": {
+        "filename": "Collection.code",
+        "line": 1475
+      },
+      "744": {
+        "filename": "Collection.code",
+        "line": 1476
+      },
+      "752": {
+        "filename": "Collection.code",
+        "line": 1477
+      },
+      "760": {
+        "filename": "Collection.code",
+        "line": 1478
+      },
+      "776": {
+        "filename": "Collection.code",
+        "line": 1479
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 1481
+      },
+      "800": {
+        "filename": "Collection.code",
+        "line": 1482
+      },
+      "816": {
+        "filename": "Collection.code",
+        "line": 1483
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 1486
+      }
+    },
+    "661510a747d6c1d9478d69fcee161dae7d3a3197c02351316a8b586361a7bb15": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "8": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "136": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "152": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "192": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "216": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "224": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "232": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "264": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "280": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "296": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "320": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "352": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "360": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "368": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "376": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "384": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "400": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      }
+    },
+    "69a5a08a5100ed969fab78209c7a38bf44133665ae3193c80660d229b452511b": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 73
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 73
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 73
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 73
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 73
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 73
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 73
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 73
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 73
+      }
+    },
+    "6a7ee8c5f6f431ce5c9838d9cc3c8429ee6e04f71f17756ef406ef2c7c65f5c7": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 940
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 941
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 942
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 943
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 944
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 945
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 120
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 120
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 120
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 120
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 120
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 120
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 956
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 959
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 960
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 961
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 962
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 963
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 964
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 965
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 966
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 967
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 968
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 969
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 970
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 971
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 972
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 973
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 974
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 976
+      },
+      "432": {
+        "filename": "Collection.code",
+        "line": 977
+      },
+      "448": {
+        "filename": "Collection.code",
+        "line": 978
+      },
+      "456": {
+        "filename": "Collection.code",
+        "line": 979
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 980
+      },
+      "480": {
+        "filename": "Collection.code",
+        "line": 981
+      },
+      "496": {
+        "filename": "Collection.code",
+        "line": 982
+      },
+      "512": {
+        "filename": "Collection.code",
+        "line": 983
+      },
+      "528": {
+        "filename": "Collection.code",
+        "line": 984
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 985
+      },
+      "552": {
+        "filename": "Collection.code",
+        "line": 986
+      },
+      "576": {
+        "filename": "Collection.code",
+        "line": 987
+      },
+      "592": {
+        "filename": "Collection.code",
+        "line": 988
+      },
+      "616": {
+        "filename": "Collection.code",
+        "line": 989
+      },
+      "624": {
+        "filename": "Collection.code",
+        "line": 990
+      },
+      "632": {
+        "filename": "Collection.code",
+        "line": 991
+      },
+      "648": {
+        "filename": "Collection.code",
+        "line": 992
+      },
+      "664": {
+        "filename": "Collection.code",
+        "line": 993
+      },
+      "672": {
+        "filename": "Collection.code",
+        "line": 994
+      },
+      "696": {
+        "filename": "Collection.code",
+        "line": 995
+      },
+      "704": {
+        "filename": "Collection.code",
+        "line": 996
+      },
+      "712": {
+        "filename": "Collection.code",
+        "line": 997
+      },
+      "728": {
+        "filename": "Collection.code",
+        "line": 998
+      },
+      "744": {
+        "filename": "Collection.code",
+        "line": 999
+      },
+      "768": {
+        "filename": "Collection.code",
+        "line": 1000
+      },
+      "784": {
+        "filename": "Collection.code",
+        "line": 1001
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 1002
+      },
+      "800": {
+        "filename": "Collection.code",
+        "line": 1003
+      },
+      "816": {
+        "filename": "Collection.code",
+        "line": 1004
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 1006
+      },
+      "840": {
+        "filename": "Collection.code",
+        "line": 1007
+      },
+      "856": {
+        "filename": "Collection.code",
+        "line": 1008
+      },
+      "872": {
+        "filename": "Collection.code",
+        "line": 1011
+      }
+    },
+    "73867e37ec1ffb9ecb087a37d71892215b0b805a73c127da219a28729084e2e0": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "77a8b71a65efd77165d32c9605b155eb1a5561c1e05392162c9b8671c04c84cb": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 49
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 49
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 49
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 49
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 49
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 49
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 49
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 49
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 49
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 49
+      }
+    },
+    "801179bac57e9b9e099ee7b0720348eb96354a4febe7e131fe7dfa8a40aa750b": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 85
+      },
+      "8": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 85
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "48": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      }
+    },
+    "8142e9f192ce35e195cb35e2bd13c4e934122e0e16a2cf86b5780d826937323a": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 44
+      },
+      "8": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 44
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 45
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "152": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "200": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "256": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "264": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "312": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "320": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "328": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "336": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "352": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "360": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "376": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "392": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 47
+      },
+      "408": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 55
+      },
+      "424": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 30
+      },
+      "440": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 31
+      },
+      "488": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 31
+      },
+      "496": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 31
+      },
+      "512": {
+        "filename": "Collection.code",
+        "line": 119
+      },
+      "528": {
+        "filename": "Collection.code",
+        "line": 122
+      }
+    },
+    "81693db6976c4696c5e2638687665f700eed80a6863f1cefdd8f12ce8249975b": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 73
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 73
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 74
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 74
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 75
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 76
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 76
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 76
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 76
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 76
+      },
+      "152": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 76
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 76
+      },
+      "184": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 76
+      },
+      "192": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 76
+      }
+    },
+    "8723a0117065927fd8d2f33025388b25e375975857763e04a079580824a862ce": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 1218
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 1219
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 1220
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 1221
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 1222
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 1223
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 35
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 35
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 35
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 35
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 35
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 35
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 1234
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 1237
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 1238
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 1239
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 1240
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 1241
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 1242
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 1243
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 1244
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 1245
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 1246
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 1247
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 1248
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 1249
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 1250
+      },
+      "392": {
+        "filename": "Collection.code",
+        "line": 1251
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 1252
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 1254
+      },
+      "424": {
+        "filename": "Collection.code",
+        "line": 1255
+      },
+      "440": {
+        "filename": "Collection.code",
+        "line": 1256
+      },
+      "448": {
+        "filename": "Collection.code",
+        "line": 1257
+      },
+      "464": {
+        "filename": "Collection.code",
+        "line": 1258
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 1259
+      },
+      "488": {
+        "filename": "Collection.code",
+        "line": 1260
+      },
+      "504": {
+        "filename": "Collection.code",
+        "line": 1261
+      },
+      "520": {
+        "filename": "Collection.code",
+        "line": 1262
+      },
+      "536": {
+        "filename": "Collection.code",
+        "line": 1263
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 1264
+      },
+      "568": {
+        "filename": "Collection.code",
+        "line": 1265
+      },
+      "584": {
+        "filename": "Collection.code",
+        "line": 1266
+      },
+      "608": {
+        "filename": "Collection.code",
+        "line": 1267
+      },
+      "616": {
+        "filename": "Collection.code",
+        "line": 1268
+      },
+      "624": {
+        "filename": "Collection.code",
+        "line": 1269
+      },
+      "640": {
+        "filename": "Collection.code",
+        "line": 1270
+      },
+      "656": {
+        "filename": "Collection.code",
+        "line": 1271
+      },
+      "672": {
+        "filename": "Collection.code",
+        "line": 1272
+      },
+      "688": {
+        "filename": "Collection.code",
+        "line": 1273
+      },
+      "704": {
+        "filename": "Collection.code",
+        "line": 1274
+      },
+      "720": {
+        "filename": "Collection.code",
+        "line": 1275
+      },
+      "744": {
+        "filename": "Collection.code",
+        "line": 1276
+      },
+      "752": {
+        "filename": "Collection.code",
+        "line": 1277
+      },
+      "760": {
+        "filename": "Collection.code",
+        "line": 1278
+      },
+      "776": {
+        "filename": "Collection.code",
+        "line": 1279
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 1281
+      },
+      "800": {
+        "filename": "Collection.code",
+        "line": 1282
+      },
+      "816": {
+        "filename": "Collection.code",
+        "line": 1283
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 1286
+      }
+    },
+    "92df6c3055846b46698e8896c081ed217c8f904e59c157559496b0586eb41b4c": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 856
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 857
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 858
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 859
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 860
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 861
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 115
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 115
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 115
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 115
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 115
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 115
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 872
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 875
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 876
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 877
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 878
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 879
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 880
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 881
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 882
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 883
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 884
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 885
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 886
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 887
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 888
+      },
+      "392": {
+        "filename": "Collection.code",
+        "line": 889
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 890
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 892
+      },
+      "424": {
+        "filename": "Collection.code",
+        "line": 893
+      },
+      "440": {
+        "filename": "Collection.code",
+        "line": 894
+      },
+      "448": {
+        "filename": "Collection.code",
+        "line": 895
+      },
+      "464": {
+        "filename": "Collection.code",
+        "line": 896
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 897
+      },
+      "488": {
+        "filename": "Collection.code",
+        "line": 898
+      },
+      "504": {
+        "filename": "Collection.code",
+        "line": 899
+      },
+      "520": {
+        "filename": "Collection.code",
+        "line": 900
+      },
+      "536": {
+        "filename": "Collection.code",
+        "line": 901
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 902
+      },
+      "568": {
+        "filename": "Collection.code",
+        "line": 903
+      },
+      "584": {
+        "filename": "Collection.code",
+        "line": 904
+      },
+      "608": {
+        "filename": "Collection.code",
+        "line": 905
+      },
+      "616": {
+        "filename": "Collection.code",
+        "line": 906
+      },
+      "624": {
+        "filename": "Collection.code",
+        "line": 907
+      },
+      "640": {
+        "filename": "Collection.code",
+        "line": 908
+      },
+      "656": {
+        "filename": "Collection.code",
+        "line": 909
+      },
+      "672": {
+        "filename": "Collection.code",
+        "line": 910
+      },
+      "688": {
+        "filename": "Collection.code",
+        "line": 911
+      },
+      "704": {
+        "filename": "Collection.code",
+        "line": 912
+      },
+      "720": {
+        "filename": "Collection.code",
+        "line": 913
+      },
+      "744": {
+        "filename": "Collection.code",
+        "line": 914
+      },
+      "752": {
+        "filename": "Collection.code",
+        "line": 915
+      },
+      "760": {
+        "filename": "Collection.code",
+        "line": 916
+      },
+      "776": {
+        "filename": "Collection.code",
+        "line": 917
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 919
+      },
+      "800": {
+        "filename": "Collection.code",
+        "line": 920
+      },
+      "816": {
+        "filename": "Collection.code",
+        "line": 921
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 924
+      }
+    },
+    "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
+    "98d6299aa4efd413e5f0cee4ea08757e4d4cb93ed3588115738386870eba3320": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 78
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 78
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 78
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 78
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 78
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 78
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 78
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 78
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 78
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 78
+      }
+    },
+    "9ccdbf037ae1b7fb0ec65c82c7f8e8a78ad48ae2cf019c33100b2b69dcdb9af9": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "8": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "48": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      }
+    },
+    "a2a5e6b231435254895bd639461f5a73d29b341398ce0c86d5f79507d2a7b5e2": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2272
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 2273
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 2274
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 2275
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 2278
+      },
+      "88": {
+        "filename": "Collection.code",
+        "line": 2279
+      },
+      "136": {
+        "filename": "Collection.code",
+        "line": 2280
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 2281
+      },
+      "160": {
+        "filename": "Collection.code",
+        "line": 2284
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 2285
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 2286
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 2287
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 2290
+      },
+      "248": {
+        "filename": "Collection.code",
+        "line": 2291
+      },
+      "296": {
+        "filename": "Collection.code",
+        "line": 2292
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 2293
+      }
+    },
+    "a3dc3f8c0e0a02b72c4490a88120eb1ecdd152cbec230163733c1186b205294d": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 83
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 84
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 84
+      },
+      "48": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 85
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 86
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 86
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 86
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 86
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 86
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 86
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 86
+      },
+      "176": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 86
+      },
+      "184": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 86
+      },
+      "192": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 87
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 87
+      },
+      "216": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 87
+      },
+      "232": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 87
+      },
+      "248": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 87
+      },
+      "264": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 87
+      },
+      "272": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 87
+      },
+      "288": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 87
+      }
+    },
+    "a48e2590d337a0f1211267e77ed7c713074820bd86029d01b2b304ade31fbacc": {
+      "0": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "8": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "16": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "32": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "48": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "56": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "64": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "72": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "88": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      }
+    },
+    "aa7f9ad5392da96d21d7a592912f9d325307122f58d86e90f3ed9fe93094a269": {
+      "0": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 50
+      },
+      "8": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 50
+      },
+      "24": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 50
+      },
+      "32": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 50
+      },
+      "80": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 50
+      },
+      "88": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 50
+      },
+      "112": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 51
+      },
+      "120": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 51
+      },
+      "128": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 51
+      },
+      "144": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 53
+      },
+      "160": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 53
+      },
+      "168": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 54
+      },
+      "176": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 54
+      },
+      "192": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 54
+      },
+      "208": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 56
+      },
+      "224": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 56
+      },
+      "240": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "248": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "256": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "272": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "280": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "288": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "304": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "320": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "328": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "336": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "352": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "360": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "368": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "384": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "400": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "408": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "424": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "432": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "440": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "448": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "472": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "488": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "504": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "520": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 57
+      },
+      "528": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "544": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "560": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "576": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "592": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "640": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "656": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "664": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "680": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "688": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "704": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "712": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "744": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "760": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "768": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "792": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "808": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "816": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "840": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "848": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "864": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "872": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "888": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "904": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "912": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "960": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "968": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "984": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "992": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      },
+      "1000": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 62
+      }
+    },
+    "afdb931dcc76c77aff1f6bc17956404411d823d87ee87ffcf941e884f9cab6a8": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2207
+      }
+    },
+    "b51a0cb0641c75a845c156545ecc4ee2c8391032d2d5b88cfda7645d78fc894f": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 1970
+      },
+      "16": {
+        "filename": "Collection.code",
+        "line": 1971
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 1972
+      },
+      "40": {
+        "filename": "Collection.code",
+        "line": 1973
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 1974
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 1975
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 1976
+      },
+      "96": {
+        "filename": "Collection.code",
+        "line": 1977
+      },
+      "104": {
+        "filename": "Collection.code",
+        "line": 1978
+      },
+      "120": {
+        "filename": "Collection.code",
+        "line": 1979
+      },
+      "128": {
+        "filename": "Collection.code",
+        "line": 1980
+      },
+      "136": {
+        "filename": "Collection.code",
+        "line": 1981
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 1982
+      },
+      "152": {
+        "filename": "Collection.code",
+        "line": 1983
+      },
+      "160": {
+        "filename": "Collection.code",
+        "line": 1984
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 1985
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 1986
+      },
+      "200": {
+        "filename": "Collection.code",
+        "line": 1987
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 1988
+      },
+      "232": {
+        "filename": "Collection.code",
+        "line": 1989
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 1990
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 1991
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 1992
+      },
+      "288": {
+        "filename": "Collection.code",
+        "line": 1993
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 1994
+      },
+      "320": {
+        "filename": "Collection.code",
+        "line": 1995
+      },
+      "336": {
+        "filename": "Collection.code",
+        "line": 1996
+      },
+      "352": {
+        "filename": "Collection.code",
+        "line": 1997
+      },
+      "368": {
+        "filename": "Collection.code",
+        "line": 1998
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 1999
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 2000
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 2001
+      }
+    },
+    "b9c317e110819225dc214cddf0902961bd9df5306c59fac0fe3aebf0765f3a7d": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 1596
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 1597
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 1598
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 1599
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 1600
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 1601
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "176": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "184": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "192": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "200": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "224": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 62
+      },
+      "232": {
+        "filename": "Collection.code",
+        "line": 1620
+      },
+      "248": {
+        "filename": "Collection.code",
+        "line": 1623
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 1624
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 1625
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 1626
+      },
+      "288": {
+        "filename": "Collection.code",
+        "line": 1627
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 1628
+      },
+      "320": {
+        "filename": "Collection.code",
+        "line": 1629
+      },
+      "328": {
+        "filename": "Collection.code",
+        "line": 1630
+      },
+      "336": {
+        "filename": "Collection.code",
+        "line": 1631
+      },
+      "344": {
+        "filename": "Collection.code",
+        "line": 1632
+      },
+      "368": {
+        "filename": "Collection.code",
+        "line": 1633
+      },
+      "376": {
+        "filename": "Collection.code",
+        "line": 1634
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 1635
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 1636
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 1637
+      },
+      "424": {
+        "filename": "Collection.code",
+        "line": 1638
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 1639
+      },
+      "480": {
+        "filename": "Collection.code",
+        "line": 1640
+      },
+      "488": {
+        "filename": "Collection.code",
+        "line": 1641
+      },
+      "496": {
+        "filename": "Collection.code",
+        "line": 1642
+      },
+      "504": {
+        "filename": "Collection.code",
+        "line": 1644
+      },
+      "520": {
+        "filename": "Collection.code",
+        "line": 1645
+      },
+      "536": {
+        "filename": "Collection.code",
+        "line": 1646
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 1647
+      },
+      "560": {
+        "filename": "Collection.code",
+        "line": 1648
+      },
+      "568": {
+        "filename": "Collection.code",
+        "line": 1649
+      },
+      "584": {
+        "filename": "Collection.code",
+        "line": 1650
+      },
+      "600": {
+        "filename": "Collection.code",
+        "line": 1651
+      },
+      "616": {
+        "filename": "Collection.code",
+        "line": 1652
+      },
+      "632": {
+        "filename": "Collection.code",
+        "line": 1653
+      },
+      "640": {
+        "filename": "Collection.code",
+        "line": 1654
+      },
+      "664": {
+        "filename": "Collection.code",
+        "line": 1655
+      },
+      "680": {
+        "filename": "Collection.code",
+        "line": 1656
+      },
+      "704": {
+        "filename": "Collection.code",
+        "line": 1657
+      },
+      "712": {
+        "filename": "Collection.code",
+        "line": 1658
+      },
+      "720": {
+        "filename": "Collection.code",
+        "line": 1659
+      },
+      "736": {
+        "filename": "Collection.code",
+        "line": 1660
+      },
+      "752": {
+        "filename": "Collection.code",
+        "line": 1661
+      },
+      "760": {
+        "filename": "Collection.code",
+        "line": 1662
+      },
+      "784": {
+        "filename": "Collection.code",
+        "line": 1663
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 1664
+      },
+      "800": {
+        "filename": "Collection.code",
+        "line": 1665
+      },
+      "816": {
+        "filename": "Collection.code",
+        "line": 1666
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 1667
+      },
+      "856": {
+        "filename": "Collection.code",
+        "line": 1668
+      },
+      "864": {
+        "filename": "Collection.code",
+        "line": 1669
+      },
+      "872": {
+        "filename": "Collection.code",
+        "line": 1670
+      },
+      "880": {
+        "filename": "Collection.code",
+        "line": 1671
+      },
+      "896": {
+        "filename": "Collection.code",
+        "line": 1672
+      },
+      "912": {
+        "filename": "Collection.code",
+        "line": 1674
+      },
+      "920": {
+        "filename": "Collection.code",
+        "line": 1675
+      },
+      "936": {
+        "filename": "Collection.code",
+        "line": 1676
+      },
+      "952": {
+        "filename": "Collection.code",
+        "line": 1679
+      }
+    },
+    "bb089f2ef072a23c3e67dc877b1589e06dda3ef0e4ad3eb80ff35c6cf5043eba": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2154
+      },
+      "16": {
+        "filename": "Collection.code",
+        "line": 2155
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 2156
+      },
+      "40": {
+        "filename": "Collection.code",
+        "line": 2157
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 2158
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 2159
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 2160
+      },
+      "376": {
+        "filename": "Collection.code",
+        "line": 2161
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 2162
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 2165
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 2166
+      },
+      "424": {
+        "filename": "Collection.code",
+        "line": 2167
+      },
+      "440": {
+        "filename": "Collection.code",
+        "line": 2168
+      },
+      "456": {
+        "filename": "Collection.code",
+        "line": 2169
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 2170
+      },
+      "480": {
+        "filename": "Collection.code",
+        "line": 2171
+      },
+      "496": {
+        "filename": "Collection.code",
+        "line": 2172
+      },
+      "504": {
+        "filename": "Collection.code",
+        "line": 2173
+      },
+      "520": {
+        "filename": "Collection.code",
+        "line": 2174
+      },
+      "528": {
+        "filename": "Collection.code",
+        "line": 2175
+      },
+      "536": {
+        "filename": "Collection.code",
+        "line": 2176
+      },
+      "552": {
+        "filename": "Collection.code",
+        "line": 2177
+      },
+      "560": {
+        "filename": "Collection.code",
+        "line": 2178
+      },
+      "568": {
+        "filename": "Collection.code",
+        "line": 2180
+      },
+      "576": {
+        "filename": "Collection.code",
+        "line": 2181
+      },
+      "584": {
+        "filename": "Collection.code",
+        "line": 2182
+      },
+      "600": {
+        "filename": "Collection.code",
+        "line": 2184
+      },
+      "608": {
+        "filename": "Collection.code",
+        "line": 2185
+      },
+      "624": {
+        "filename": "Collection.code",
+        "line": 2186
+      },
+      "640": {
+        "filename": "Collection.code",
+        "line": 2188
+      },
+      "648": {
+        "filename": "Collection.code",
+        "line": 2189
+      },
+      "664": {
+        "filename": "Collection.code",
+        "line": 2190
+      },
+      "672": {
+        "filename": "Collection.code",
+        "line": 2191
+      },
+      "688": {
+        "filename": "Collection.code",
+        "line": 2193
+      },
+      "696": {
+        "filename": "Collection.code",
+        "line": 2194
+      },
+      "712": {
+        "filename": "Collection.code",
+        "line": 2195
+      },
+      "720": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "736": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "744": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "752": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "768": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "776": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "792": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "816": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "824": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "864": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "872": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "880": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "896": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "912": {
+        "filename": "Collection.code",
+        "line": 2197
+      },
+      "928": {
+        "filename": "Collection.code",
+        "line": 2198
+      },
+      "936": {
+        "filename": "Collection.code",
+        "line": 2199
+      },
+      "952": {
+        "filename": "Collection.code",
+        "line": 2200
+      },
+      "960": {
+        "filename": "Collection.code",
+        "line": 2201
+      },
+      "976": {
+        "filename": "Collection.code",
+        "line": 2202
+      },
+      "992": {
+        "filename": "Collection.code",
+        "line": 2203
+      },
+      "1000": {
+        "filename": "Collection.code",
+        "line": 2204
+      }
+    },
+    "bbbe4f9d55271eaf47f3c08f1b227751660188674e96cb1c2b6dcb1b9d1611d4": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2060
+      },
+      "16": {
+        "filename": "Collection.code",
+        "line": 2061
+      },
+      "32": {
+        "filename": "Collection.code",
+        "line": 2062
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 2063
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 2064
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 2065
+      },
+      "96": {
+        "filename": "Collection.code",
+        "line": 2066
+      },
+      "112": {
+        "filename": "Collection.code",
+        "line": 2067
+      },
+      "128": {
+        "filename": "Collection.code",
+        "line": 2068
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 2069
+      },
+      "160": {
+        "filename": "Collection.code",
+        "line": 2070
+      },
+      "176": {
+        "filename": "Collection.code",
+        "line": 2071
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 2072
+      },
+      "200": {
+        "filename": "Collection.code",
+        "line": 2073
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 2074
+      },
+      "232": {
+        "filename": "Collection.code",
+        "line": 2075
+      },
+      "248": {
+        "filename": "Collection.code",
+        "line": 2076
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 2077
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 2078
+      },
+      "288": {
+        "filename": "Collection.code",
+        "line": 2079
+      },
+      "296": {
+        "filename": "Collection.code",
+        "line": 2080
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 2081
+      },
+      "320": {
+        "filename": "Collection.code",
+        "line": 2082
+      },
+      "328": {
+        "filename": "Collection.code",
+        "line": 2083
+      },
+      "336": {
+        "filename": "Collection.code",
+        "line": 2084
+      },
+      "352": {
+        "filename": "Collection.code",
+        "line": 2085
+      },
+      "368": {
+        "filename": "Collection.code",
+        "line": 2086
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 2087
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 2088
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 2089
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 2090
+      }
+    },
+    "bf5393b007ae3b43f892354039a88e2af5f52e26aa7b53de7448e219ac35d846": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "Collection.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "Collection.code",
+        "line": 13
+      },
+      "96": {
+        "filename": "Collection.code",
+        "line": 14
+      },
+      "104": {
+        "filename": "Collection.code",
+        "line": 15
+      },
+      "112": {
+        "filename": "Collection.code",
+        "line": 16
+      },
+      "120": {
+        "filename": "Collection.code",
+        "line": 17
+      },
+      "128": {
+        "filename": "Collection.code",
+        "line": 18
+      },
+      "136": {
+        "filename": "Collection.code",
+        "line": 19
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 21
+      },
+      "152": {
+        "filename": "Collection.code",
+        "line": 22
+      },
+      "160": {
+        "filename": "Collection.code",
+        "line": 23
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 24
+      },
+      "176": {
+        "filename": "Collection.code",
+        "line": 26
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 27
+      },
+      "200": {
+        "filename": "Collection.code",
+        "line": 28
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 29
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 30
+      },
+      "232": {
+        "filename": "Collection.code",
+        "line": 31
+      },
+      "248": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 27
+      },
+      "264": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 29
+      },
+      "280": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 31
+      },
+      "328": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 31
+      },
+      "344": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 31
+      },
+      "352": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 31
+      },
+      "368": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 31
+      },
+      "376": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 31
+      },
+      "392": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 31
+      },
+      "408": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 31
+      },
+      "416": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 31
+      },
+      "432": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "480": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "528": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "536": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "584": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "592": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "640": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "648": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "656": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "664": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "680": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "688": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "704": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "720": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 32
+      },
+      "736": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 25
+      },
+      "752": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 27
+      },
+      "768": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 29
+      },
+      "776": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 29
+      },
+      "824": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 29
+      },
+      "840": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 29
+      },
+      "848": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 29
+      },
+      "864": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 29
+      },
+      "872": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 29
+      },
+      "888": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 29
+      },
+      "904": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 29
+      },
+      "920": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 41
+      },
+      "928": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 41
+      },
+      "944": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 41
+      },
+      "952": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 41
+      },
+      "968": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 41
+      },
+      "976": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 41
+      },
+      "1000": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 42
+      }
+    },
+    "c33b41876d20add4be559cd82b1b8ccdd79e9a75624157b4092180d4db20cf54": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2214
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 2215
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 2216
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 2217
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 2220
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 2221
+      },
+      "128": {
+        "filename": "Collection.code",
+        "line": 2222
+      },
+      "136": {
+        "filename": "Collection.code",
+        "line": 2223
+      },
+      "152": {
+        "filename": "Collection.code",
+        "line": 2226
+      },
+      "160": {
+        "filename": "Collection.code",
+        "line": 2227
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 2228
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 2229
+      },
+      "232": {
+        "filename": "Collection.code",
+        "line": 2232
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 2233
+      },
+      "288": {
+        "filename": "Collection.code",
+        "line": 2234
+      },
+      "296": {
+        "filename": "Collection.code",
+        "line": 2235
+      }
+    },
+    "c51629256f0920b40b37af5b43587ff8c09a66b33c122ca24a3ef9477a2e62fd": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 212
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 213
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 214
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 215
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 216
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 217
+      },
+      "88": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 49
+      },
+      "96": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 49
+      },
+      "104": {
+        "filename": "Collection.code",
+        "line": 224
+      },
+      "120": {
+        "filename": "Collection.code",
+        "line": 227
+      },
+      "128": {
+        "filename": "Collection.code",
+        "line": 228
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 231
+      }
+    },
+    "cc2c043de1d637315bd89affb49c7cbdfa8384de608794f6401ad143ce738c4a": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 36
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 36
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 36
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 36
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 36
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 36
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 36
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 36
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_2/TIP4_2Collection.tsol",
+        "line": 36
+      }
+    },
+    "cf44882ad7ca4332a4cdfceb7cd2e2aa2701f80d87b6fe303cb740a8ff5159dd": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 125
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 126
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 127
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 128
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 129
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 130
+      },
+      "88": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 35
+      },
+      "96": {
+        "filename": "Collection.code",
+        "line": 136
+      },
+      "112": {
+        "filename": "Collection.code",
+        "line": 139
+      },
+      "120": {
+        "filename": "Collection.code",
+        "line": 140
+      },
+      "136": {
+        "filename": "Collection.code",
+        "line": 141
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 142
+      },
+      "152": {
+        "filename": "Collection.code",
+        "line": 143
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 144
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 145
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 146
+      },
+      "200": {
+        "filename": "Collection.code",
+        "line": 147
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 148
+      },
+      "232": {
+        "filename": "Collection.code",
+        "line": 149
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 150
+      },
+      "288": {
+        "filename": "Collection.code",
+        "line": 151
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 152
+      },
+      "328": {
+        "filename": "Collection.code",
+        "line": 153
+      },
+      "336": {
+        "filename": "Collection.code",
+        "line": 154
+      },
+      "344": {
+        "filename": "Collection.code",
+        "line": 155
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 157
+      },
+      "368": {
+        "filename": "Collection.code",
+        "line": 158
+      },
+      "376": {
+        "filename": "Collection.code",
+        "line": 160
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 161
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 164
+      }
+    },
+    "d001cac8251c23a91e1a4b9ac0bb43b15417cfd2a91834e9b3d6ac06eb7551e4": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 1505
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 1506
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 1507
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 1508
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 1509
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 1510
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 54
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 54
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 54
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 54
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 54
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 54
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 1521
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 1524
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 1525
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 1526
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 1527
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 1528
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 1529
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 1530
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 1531
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 1532
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 1533
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 1534
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 1535
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 1536
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 1537
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 1538
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 1539
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 1541
+      },
+      "432": {
+        "filename": "Collection.code",
+        "line": 1542
+      },
+      "448": {
+        "filename": "Collection.code",
+        "line": 1543
+      },
+      "456": {
+        "filename": "Collection.code",
+        "line": 1544
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 1545
+      },
+      "480": {
+        "filename": "Collection.code",
+        "line": 1546
+      },
+      "496": {
+        "filename": "Collection.code",
+        "line": 1547
+      },
+      "512": {
+        "filename": "Collection.code",
+        "line": 1548
+      },
+      "528": {
+        "filename": "Collection.code",
+        "line": 1549
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 1550
+      },
+      "552": {
+        "filename": "Collection.code",
+        "line": 1551
+      },
+      "576": {
+        "filename": "Collection.code",
+        "line": 1552
+      },
+      "592": {
+        "filename": "Collection.code",
+        "line": 1553
+      },
+      "616": {
+        "filename": "Collection.code",
+        "line": 1554
+      },
+      "624": {
+        "filename": "Collection.code",
+        "line": 1555
+      },
+      "632": {
+        "filename": "Collection.code",
+        "line": 1556
+      },
+      "648": {
+        "filename": "Collection.code",
+        "line": 1557
+      },
+      "664": {
+        "filename": "Collection.code",
+        "line": 1558
+      },
+      "672": {
+        "filename": "Collection.code",
+        "line": 1559
+      },
+      "696": {
+        "filename": "Collection.code",
+        "line": 1560
+      },
+      "704": {
+        "filename": "Collection.code",
+        "line": 1561
+      },
+      "712": {
+        "filename": "Collection.code",
+        "line": 1562
+      },
+      "728": {
+        "filename": "Collection.code",
+        "line": 1563
+      },
+      "744": {
+        "filename": "Collection.code",
+        "line": 1564
+      },
+      "768": {
+        "filename": "Collection.code",
+        "line": 1565
+      },
+      "784": {
+        "filename": "Collection.code",
+        "line": 1566
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 1567
+      },
+      "800": {
+        "filename": "Collection.code",
+        "line": 1568
+      },
+      "816": {
+        "filename": "Collection.code",
+        "line": 1569
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 1571
+      },
+      "840": {
+        "filename": "Collection.code",
+        "line": 1572
+      },
+      "856": {
+        "filename": "Collection.code",
+        "line": 1573
+      },
+      "872": {
+        "filename": "Collection.code",
+        "line": 1576
+      }
+    },
+    "d25a62e7b5eb9b29e7fb78e4114fdecbe1fdfbf02fb189502f2394176375f82f": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 420
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 421
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 422
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 423
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 424
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 425
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 72
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 72
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 72
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 72
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 72
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 72
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 436
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 439
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 440
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 441
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 442
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 443
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 444
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 445
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 446
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 447
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 448
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 449
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 450
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 451
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 452
+      },
+      "392": {
+        "filename": "Collection.code",
+        "line": 453
+      },
+      "400": {
+        "filename": "Collection.code",
+        "line": 454
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 456
+      },
+      "424": {
+        "filename": "Collection.code",
+        "line": 457
+      },
+      "440": {
+        "filename": "Collection.code",
+        "line": 458
+      },
+      "448": {
+        "filename": "Collection.code",
+        "line": 459
+      },
+      "464": {
+        "filename": "Collection.code",
+        "line": 460
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 461
+      },
+      "488": {
+        "filename": "Collection.code",
+        "line": 462
+      },
+      "504": {
+        "filename": "Collection.code",
+        "line": 463
+      },
+      "520": {
+        "filename": "Collection.code",
+        "line": 464
+      },
+      "536": {
+        "filename": "Collection.code",
+        "line": 465
+      },
+      "544": {
+        "filename": "Collection.code",
+        "line": 466
+      },
+      "568": {
+        "filename": "Collection.code",
+        "line": 467
+      },
+      "584": {
+        "filename": "Collection.code",
+        "line": 468
+      },
+      "608": {
+        "filename": "Collection.code",
+        "line": 469
+      },
+      "616": {
+        "filename": "Collection.code",
+        "line": 470
+      },
+      "624": {
+        "filename": "Collection.code",
+        "line": 471
+      },
+      "640": {
+        "filename": "Collection.code",
+        "line": 472
+      },
+      "656": {
+        "filename": "Collection.code",
+        "line": 473
+      },
+      "672": {
+        "filename": "Collection.code",
+        "line": 474
+      },
+      "688": {
+        "filename": "Collection.code",
+        "line": 475
+      },
+      "704": {
+        "filename": "Collection.code",
+        "line": 476
+      },
+      "720": {
+        "filename": "Collection.code",
+        "line": 477
+      },
+      "744": {
+        "filename": "Collection.code",
+        "line": 478
+      },
+      "752": {
+        "filename": "Collection.code",
+        "line": 479
+      },
+      "760": {
+        "filename": "Collection.code",
+        "line": 480
+      },
+      "776": {
+        "filename": "Collection.code",
+        "line": 481
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 483
+      },
+      "800": {
+        "filename": "Collection.code",
+        "line": 484
+      },
+      "816": {
+        "filename": "Collection.code",
+        "line": 485
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 488
+      }
+    },
+    "d3f2b1249b540372674fd61f7a8f6d4287139933e5e10ab78733c90080ea690b": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "8": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "48": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "72": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      }
+    },
+    "d4475ea839eacb223468d9acd2b9eee687923056cc4726672ff1bd48a28d99e3": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2243
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 2244
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 2245
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 2246
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 2249
+      },
+      "88": {
+        "filename": "Collection.code",
+        "line": 2250
+      },
+      "136": {
+        "filename": "Collection.code",
+        "line": 2251
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 2252
+      },
+      "160": {
+        "filename": "Collection.code",
+        "line": 2255
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 2256
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 2257
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 2258
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 2261
+      },
+      "248": {
+        "filename": "Collection.code",
+        "line": 2262
+      },
+      "296": {
+        "filename": "Collection.code",
+        "line": 2263
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 2264
+      }
+    },
+    "d49946827c772ebb24c00b770a8923d0c22220ba5bbc52cd3140109a7dce1b3b": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2004
+      },
+      "16": {
+        "filename": "Collection.code",
+        "line": 2005
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 2006
+      },
+      "40": {
+        "filename": "Collection.code",
+        "line": 2007
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 2008
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 2055
+      }
+    },
+    "d5335dcbb8b13738e7e76183ed3126deb4672e1560b86ebadddac22c2e81116b": {
+      "0": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 36
+      },
+      "16": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 36
+      },
+      "32": {
+        "filename": "../contracts/Collection.tsol",
+        "line": 36
+      }
+    },
+    "de38c512c0b3d3a74e091467ebd2dafc4de945a1b28667b1f87fd7fef1f9e7fe": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2109
+      },
+      "16": {
+        "filename": "Collection.code",
+        "line": 2110
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 2111
+      },
+      "40": {
+        "filename": "Collection.code",
+        "line": 2112
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 2113
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 2114
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 2115
+      },
+      "88": {
+        "filename": "Collection.code",
+        "line": 2116
+      },
+      "104": {
+        "filename": "Collection.code",
+        "line": 2117
+      },
+      "120": {
+        "filename": "Collection.code",
+        "line": 2118
+      },
+      "128": {
+        "filename": "Collection.code",
+        "line": 2119
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 2120
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 2121
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 2122
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 2123
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 2124
+      },
+      "248": {
+        "filename": "Collection.code",
+        "line": 2125
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 2126
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 2127
+      },
+      "288": {
+        "filename": "Collection.code",
+        "line": 2128
+      },
+      "296": {
+        "filename": "Collection.code",
+        "line": 2129
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 2130
+      },
+      "328": {
+        "filename": "Collection.code",
+        "line": 2131
+      },
+      "336": {
+        "filename": "Collection.code",
+        "line": 2132
+      },
+      "344": {
+        "filename": "Collection.code",
+        "line": 2133
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 2134
+      },
+      "376": {
+        "filename": "Collection.code",
+        "line": 2138
+      },
+      "384": {
+        "filename": "Collection.code",
+        "line": 2139
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 2140
+      },
+      "424": {
+        "filename": "Collection.code",
+        "line": 2141
+      },
+      "432": {
+        "filename": "Collection.code",
+        "line": 2142
+      },
+      "448": {
+        "filename": "Collection.code",
+        "line": 2146
+      },
+      "456": {
+        "filename": "Collection.code",
+        "line": 2147
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 2150
+      }
+    },
+    "e5bcdd2119476d1431fe608d0e167cc2a472cc103c84b8c2f7d0157c12a715a8": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "8": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      }
+    },
+    "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2093
+      },
+      "16": {
+        "filename": "Collection.code",
+        "line": 2094
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 2095
+      },
+      "40": {
+        "filename": "Collection.code",
+        "line": 2096
+      },
+      "56": {
+        "filename": "Collection.code",
+        "line": 2097
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 2098
+      },
+      "80": {
+        "filename": "Collection.code",
+        "line": 2099
+      },
+      "88": {
+        "filename": "Collection.code",
+        "line": 2100
+      },
+      "96": {
+        "filename": "Collection.code",
+        "line": 2101
+      },
+      "112": {
+        "filename": "Collection.code",
+        "line": 2102
+      },
+      "128": {
+        "filename": "Collection.code",
+        "line": 2103
+      },
+      "136": {
+        "filename": "Collection.code",
+        "line": 2104
+      },
+      "144": {
+        "filename": "Collection.code",
+        "line": 2105
+      }
+    },
+    "e9abee55be35d1caf48ec9993f5e5199bd5ffb2e309dd95fbde8e70c8c8c0a5c": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 592
+      },
+      "8": {
+        "filename": "Collection.code",
+        "line": 593
+      },
+      "24": {
+        "filename": "Collection.code",
+        "line": 594
+      },
+      "48": {
+        "filename": "Collection.code",
+        "line": 595
+      },
+      "64": {
+        "filename": "Collection.code",
+        "line": 596
+      },
+      "72": {
+        "filename": "Collection.code",
+        "line": 597
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 82
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 82
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 82
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 82
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 82
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_3/TIP4_3Collection.tsol",
+        "line": 82
+      },
+      "168": {
+        "filename": "Collection.code",
+        "line": 608
+      },
+      "184": {
+        "filename": "Collection.code",
+        "line": 611
+      },
+      "192": {
+        "filename": "Collection.code",
+        "line": 612
+      },
+      "208": {
+        "filename": "Collection.code",
+        "line": 613
+      },
+      "216": {
+        "filename": "Collection.code",
+        "line": 614
+      },
+      "224": {
+        "filename": "Collection.code",
+        "line": 615
+      },
+      "240": {
+        "filename": "Collection.code",
+        "line": 616
+      },
+      "256": {
+        "filename": "Collection.code",
+        "line": 617
+      },
+      "264": {
+        "filename": "Collection.code",
+        "line": 618
+      },
+      "272": {
+        "filename": "Collection.code",
+        "line": 619
+      },
+      "280": {
+        "filename": "Collection.code",
+        "line": 620
+      },
+      "304": {
+        "filename": "Collection.code",
+        "line": 621
+      },
+      "312": {
+        "filename": "Collection.code",
+        "line": 622
+      },
+      "320": {
+        "filename": "Collection.code",
+        "line": 623
+      },
+      "344": {
+        "filename": "Collection.code",
+        "line": 624
+      },
+      "352": {
+        "filename": "Collection.code",
+        "line": 625
+      },
+      "360": {
+        "filename": "Collection.code",
+        "line": 626
+      },
+      "408": {
+        "filename": "Collection.code",
+        "line": 627
+      },
+      "416": {
+        "filename": "Collection.code",
+        "line": 628
+      },
+      "424": {
+        "filename": "Collection.code",
+        "line": 629
+      },
+      "432": {
+        "filename": "Collection.code",
+        "line": 630
+      },
+      "440": {
+        "filename": "Collection.code",
+        "line": 632
+      },
+      "456": {
+        "filename": "Collection.code",
+        "line": 633
+      },
+      "472": {
+        "filename": "Collection.code",
+        "line": 634
+      },
+      "480": {
+        "filename": "Collection.code",
+        "line": 635
+      },
+      "496": {
+        "filename": "Collection.code",
+        "line": 636
+      },
+      "504": {
+        "filename": "Collection.code",
+        "line": 637
+      },
+      "520": {
+        "filename": "Collection.code",
+        "line": 638
+      },
+      "536": {
+        "filename": "Collection.code",
+        "line": 639
+      },
+      "552": {
+        "filename": "Collection.code",
+        "line": 640
+      },
+      "568": {
+        "filename": "Collection.code",
+        "line": 641
+      },
+      "576": {
+        "filename": "Collection.code",
+        "line": 642
+      },
+      "600": {
+        "filename": "Collection.code",
+        "line": 643
+      },
+      "616": {
+        "filename": "Collection.code",
+        "line": 644
+      },
+      "640": {
+        "filename": "Collection.code",
+        "line": 645
+      },
+      "648": {
+        "filename": "Collection.code",
+        "line": 646
+      },
+      "656": {
+        "filename": "Collection.code",
+        "line": 647
+      },
+      "672": {
+        "filename": "Collection.code",
+        "line": 648
+      },
+      "688": {
+        "filename": "Collection.code",
+        "line": 649
+      },
+      "696": {
+        "filename": "Collection.code",
+        "line": 650
+      },
+      "720": {
+        "filename": "Collection.code",
+        "line": 651
+      },
+      "728": {
+        "filename": "Collection.code",
+        "line": 652
+      },
+      "736": {
+        "filename": "Collection.code",
+        "line": 653
+      },
+      "752": {
+        "filename": "Collection.code",
+        "line": 654
+      },
+      "768": {
+        "filename": "Collection.code",
+        "line": 655
+      },
+      "792": {
+        "filename": "Collection.code",
+        "line": 656
+      },
+      "800": {
+        "filename": "Collection.code",
+        "line": 657
+      },
+      "808": {
+        "filename": "Collection.code",
+        "line": 658
+      },
+      "816": {
+        "filename": "Collection.code",
+        "line": 659
+      },
+      "832": {
+        "filename": "Collection.code",
+        "line": 660
+      },
+      "848": {
+        "filename": "Collection.code",
+        "line": 662
+      },
+      "856": {
+        "filename": "Collection.code",
+        "line": 663
+      },
+      "872": {
+        "filename": "Collection.code",
+        "line": 664
+      },
+      "888": {
+        "filename": "Collection.code",
+        "line": 667
+      }
+    },
+    "f0f862570b8c0c159cf1a4d6ad2262eab4e0b744e988a5c089b6cc1fd03c2020": {
+      "0": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "8": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/tip4/contracts/TIP4_1/TIP4_1Collection.tsol",
+        "line": 86
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "Collection.code",
+        "line": 2135
+      },
+      "16": {
+        "filename": "Collection.code",
+        "line": 2136
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+	"ABI version": 2,
+	"version": "2.2",
+	"header": ["pubkey", "time", "expire"],
+	"functions": [
+		{
+			"name": "greet",
+			"inputs": [
+			],
+			"outputs": [
+				{"name":"_greet","type":"string"}
+			]
+		},
+		{
+			"name": "setGreet",
+			"inputs": [
+				{"name":"_newGreet","type":"string"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "constructor",
+			"inputs": [
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "greeting",
+			"inputs": [
+			],
+			"outputs": [
+				{"name":"greeting","type":"string"}
+			]
+		}
+	],
+	"data": [
+	],
+	"events": [
+	],
+	"fields": [
+		{"name":"_pubkey","type":"uint256"},
+		{"name":"_timestamp","type":"uint64"},
+		{"name":"_constructorFlag","type":"bool"},
+		{"name":"greeting","type":"string"}
+	]
+}

@@ -1,0 +1,16 @@
+pragma ever-solidity >= 0.61.2;
+pragma AbiHeader expire;
+pragma AbiHeader pubkey;
+
+contract HelloWorld {
+    string public greeting = "Hello World";
+
+    function greet() public view returns(string _greet) {
+        return greeting;
+    }
+    
+    function setGreet(string _newGreet) public {
+        tvm.accept();
+        greeting = _newGreet;
+    }
+}

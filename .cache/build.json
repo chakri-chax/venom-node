@@ -1,0 +1,37 @@
+{
+    "contracts\\HelloWorld.tsol": {
+        "modificationTime": 1746027068000
+    },
+    "contracts\\Sample.tsol": {
+        "modificationTime": 1746027874000
+    },
+    "contracts\\Collection.tsol": {
+        "modificationTime": 1746536214000
+    },
+    "contracts\\Nft.tsol": {
+        "modificationTime": 1746536178000
+    },
+    "D:\\venom\\venom\\node_modules\\@broxus\\tip4\\contracts\\TIP4_2\\TIP4_2Collection.tsol": {
+        "modificationTime": 1746533756000
+    },
+    "D:\\venom\\venom\\node_modules\\@broxus\\tip4\\contracts\\TIP4_3\\TIP4_3Collection.tsol": {
+        "modificationTime": 1746533756000
+    },
+    "D:\\venom\\venom\\node_modules\\@broxus\\contracts\\contracts\\access\\InternalOwner.tsol": {
+        "modificationTime": 1746531424000
+    },
+    "D:\\venom\\venom\\node_modules\\@broxus\\tip4\\contracts\\TIP4_1\\TIP4_1Nft.tsol": {
+        "modificationTime": 1746533756000
+    },
+    "D:\\venom\\venom\\node_modules\\@broxus\\tip4\\contracts\\TIP4_3\\TIP4_3Nft.tsol": {
+        "modificationTime": 1746533756000
+    },
+    "D:\\venom\\venom\\node_modules\\@broxus\\tip4\\contracts\\TIP4_2\\TIP4_2Nft.tsol": {
+        "modificationTime": 1746533756000
+    },
+    "compilerSettings": {
+        "compilerPath": "C:\\Users\\SUPRAJA\\AppData\\Local\\locklift-nodejs\\Cache\\compiler\\0_62_0\\solc_0_62_0_win32.exe",
+        "linkerPath": "C:\\Users\\SUPRAJA\\AppData\\Local\\locklift-nodejs\\Cache\\linker\\0_15_48\\tvm_linker_0_15_48_win32.exe",
+        "linkerLibPath": "C:\\Users\\SUPRAJA\\AppData\\Local\\locklift-nodejs\\Cache\\lib\\0_62_0\\stdlib_sol_0_62_0.tvm"
+    }
+}
